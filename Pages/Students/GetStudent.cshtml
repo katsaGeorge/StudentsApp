@@ -1,0 +1,15 @@
+﻿@page "/Students/{id}/GetStudent"
+@model StudentsDbApp.Pages.Students.GetStudentModel
+@{
+}
+
+
+<h1>Student that have been searched</h1>
+@if (Model.Student is not null)
+{
+    <p>@Model.Student!.Id</p>
+    <p>@Model.Student.FirstName</p>
+    <p>@Model.Student.LastName</p>
+}else{
+    <p>Empty Variable</p>
+}

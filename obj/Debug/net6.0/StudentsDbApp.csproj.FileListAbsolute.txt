@@ -1,0 +1,130 @@
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\StudentsDbApp.csproj.AssemblyReference.cache
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\StudentsDbApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\StudentsDbApp.AssemblyInfoInputs.cache
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\StudentsDbApp.AssemblyInfo.cs
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\StudentsDbApp.csproj.CoreCompileInputs.cache
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\StudentsDbApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\StudentsDbApp.RazorAssemblyInfo.cache
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\StudentsDbApp.RazorAssemblyInfo.cs
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\appsettings.json
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\StudentsDbApp.staticwebassets.runtime.json
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\StudentsDbApp.exe
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\StudentsDbApp.deps.json
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\StudentsDbApp.runtimeconfig.json
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\StudentsDbApp.dll
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\StudentsDbApp.pdb
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\Serilog.dll
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\staticwebassets\msbuild.StudentsDbApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\staticwebassets\msbuild.build.StudentsDbApp.props
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StudentsDbApp.props
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StudentsDbApp.props
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\scopedcss\bundle\StudentsDbApp.styles.css
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\scopedcss\projectbundle\StudentsDbApp.bundle.scp.css
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\StudentsDbApp.csproj.CopyComplete
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\StudentsDbApp.dll
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\refint\StudentsDbApp.dll
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\StudentsDbApp.pdb
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\StudentsDbApp.genruntimeconfig.cache
+C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\ref\StudentsDbApp.dll
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\appsettings.json
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\StudentsDbApp.staticwebassets.runtime.json
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\StudentsDbApp.exe
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\StudentsDbApp.deps.json
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\StudentsDbApp.runtimeconfig.json
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\StudentsDbApp.dll
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\StudentsDbApp.pdb
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\Serilog.dll
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\StudentsDbApp.csproj.AssemblyReference.cache
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\StudentsDbApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\StudentsDbApp.AssemblyInfoInputs.cache
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\StudentsDbApp.AssemblyInfo.cs
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\StudentsDbApp.csproj.CoreCompileInputs.cache
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\StudentsDbApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\StudentsDbApp.RazorAssemblyInfo.cache
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\StudentsDbApp.RazorAssemblyInfo.cs
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\staticwebassets\msbuild.StudentsDbApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\staticwebassets\msbuild.build.StudentsDbApp.props
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StudentsDbApp.props
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StudentsDbApp.props
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\scopedcss\bundle\StudentsDbApp.styles.css
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\scopedcss\projectbundle\StudentsDbApp.bundle.scp.css
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\StudentsDbApp.csproj.CopyComplete
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\StudentsDbApp.dll
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\refint\StudentsDbApp.dll
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\StudentsDbApp.pdb
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\StudentsDbApp.genruntimeconfig.cache
+C:\Users\Kats\Documents\CODING_FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\obj\Debug\net6.0\ref\StudentsDbApp.dll

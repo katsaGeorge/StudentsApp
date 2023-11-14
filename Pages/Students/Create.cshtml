@@ -1,0 +1,42 @@
+﻿@page "/Students/Create"
+@model StudentsDbApp.Pages.Students.CreateModel
+@{
+}
+
+
+<form method="POST">
+    <div class="row mb-3">
+        <label for="firstname" class="col-md-1"></label>
+    </div>
+    <div class="col-md-6">
+        <input type="text" class="form-control" name="firstname" id="firstname"
+        placeholder="Enter Firstname" value="@Model.StudentInsertDto.FirstName"/>
+    </div>
+    <div class="row mb-3">
+        <label for="giorgos" class="col-md-1"></label>
+    </div>
+    <div class="col-md-6">
+        <input type="text" class="form-control" name="LASTNAME" id="giorgos"
+               placeholder="Enter lastname" value="@Model.StudentInsertDto.LastName"/>
+    </div>
+     <div class="row mt-3">
+        <div class=" col-md-3 d-grid"> 
+            <button type="Submit" class="btn btn-primary">Submit</button>
+        </div>
+        <div class=" col-md-3 d-grid">
+            <a href="/Students/getall" class="btn btn-outline-primary">Cancel</a>
+        </div>
+     </div>
+</form>
+
+<div>
+    @if(Model.ErrorArray.Count !=0)
+    {
+        @foreach (var error in Model.ErrorArray)
+        {
+            <div>
+                <p>@error.Message</p>
+            </div>
+        }
+    }
+</div>

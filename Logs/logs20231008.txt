@@ -1,0 +1,261 @@
+[ 08-10-2023 11:47:58 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager Information] User profile is available. Using '"C:\Users\Kats\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest. 
+ [ 08-10-2023 11:47:59 Microsoft.Hosting.Lifetime Information] Now listening on: "https://localhost:7014" 
+ [ 08-10-2023 11:47:59 Microsoft.Hosting.Lifetime Information] Now listening on: "http://localhost:5170" 
+ [ 08-10-2023 11:47:59 Microsoft.Hosting.Lifetime Information] Application started. Press Ctrl+C to shut down. 
+ [ 08-10-2023 11:47:59 Microsoft.Hosting.Lifetime Information] Hosting environment: "Development" 
+ [ 08-10-2023 11:47:59 Microsoft.Hosting.Lifetime Information] Content root path: "C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\" 
+ [ 08-10-2023 11:48:00 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/ - - 
+ [ 08-10-2023 11:48:01 Microsoft.AspNetCore.Routing.EndpointMiddleware Information] Executing endpoint '"/Index"' 
+ [ 08-10-2023 11:48:01 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Route matched with "{page = \"/Index\"}". Executing page "/Index" 
+ [ 08-10-2023 11:48:01 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executing handler method "StudentsDbApp.Pages.IndexModel.OnGet" - ModelState is Valid 
+ [ 08-10-2023 11:48:01 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed handler method "OnGet", returned result "". 
+ [ 08-10-2023 11:48:01 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executing an implicit handler method - ModelState is Valid 
+ [ 08-10-2023 11:48:01 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed an implicit handler method, returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult". 
+ [ 08-10-2023 11:48:02 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed page "/Index" in 1055.9612ms 
+ [ 08-10-2023 11:48:02 Microsoft.AspNetCore.Routing.EndpointMiddleware Information] Executed endpoint '"/Index"' 
+ [ 08-10-2023 11:48:03 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/css/site.css?v=AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL-c - - 
+ [ 08-10-2023 11:48:03 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/lib/bootstrap/dist/css/bootstrap.min.css - - 
+ [ 08-10-2023 11:48:03 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/StudentsDbApp.styles.css?v=8sXTpRQNnPqLdnvMwmGJeu73zGH97mkJ-ISxp4huukY - - 
+ [ 08-10-2023 11:48:03 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0 - - 
+ [ 08-10-2023 11:48:03 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/_framework/aspnetcore-browser-refresh.js - - 
+ [ 08-10-2023 11:48:03 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/lib/bootstrap/dist/js/bootstrap.bundle.min.js - - 
+ [ 08-10-2023 11:48:03 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/lib/jquery/dist/jquery.min.js - - 
+ [ 08-10-2023 11:48:03 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/_vs/browserLink - - 
+ [ 08-10-2023 11:48:03 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/ - - - 200 - text/html;+charset=utf-8 2614.8518ms 
+ [ 08-10-2023 11:48:03 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/_framework/aspnetcore-browser-refresh.js - - - 200 11996 application/javascript;+charset=utf-8 69.0028ms 
+ [ 08-10-2023 11:48:03 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware Information] The file "/lib/bootstrap/dist/css/bootstrap.min.css" was not modified 
+ [ 08-10-2023 11:48:03 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware Information] The file "/css/site.css" was not modified 
+ [ 08-10-2023 11:48:03 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/lib/bootstrap/dist/css/bootstrap.min.css - - - 304 - text/css 168.9270ms 
+ [ 08-10-2023 11:48:03 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware Information] The file "/StudentsDbApp.styles.css" was not modified 
+ [ 08-10-2023 11:48:03 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware Information] The file "/js/site.js" was not modified 
+ [ 08-10-2023 11:48:03 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware Information] The file "/lib/bootstrap/dist/js/bootstrap.bundle.min.js" was not modified 
+ [ 08-10-2023 11:48:03 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware Information] The file "/lib/jquery/dist/jquery.min.js" was not modified 
+ [ 08-10-2023 11:48:03 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/css/site.css?v=AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL-c - - - 304 - text/css 199.7343ms 
+ [ 08-10-2023 11:48:03 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/StudentsDbApp.styles.css?v=8sXTpRQNnPqLdnvMwmGJeu73zGH97mkJ-ISxp4huukY - - - 304 - text/css 208.3121ms 
+ [ 08-10-2023 11:48:03 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0 - - - 304 - application/javascript 210.8143ms 
+ [ 08-10-2023 11:48:03 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/lib/bootstrap/dist/js/bootstrap.bundle.min.js - - - 304 - application/javascript 212.2183ms 
+ [ 08-10-2023 11:48:03 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/lib/jquery/dist/jquery.min.js - - - 304 - application/javascript 213.8845ms 
+ [ 08-10-2023 11:48:03 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 214.0870ms 
+ [ 08-10-2023 11:48:15 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/Students/getall - - 
+ [ 08-10-2023 11:48:15 Microsoft.AspNetCore.Routing.EndpointMiddleware Information] Executing endpoint '"/Students/Index"' 
+ [ 08-10-2023 11:48:15 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Route matched with "{page = \"/Students/Index\"}". Executing page "/Students/Index" 
+ [ 08-10-2023 11:48:15 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executing handler method "StudentsDbApp.Pages.Students.IndexModel.OnGet" - ModelState is Valid 
+ [ 08-10-2023 11:48:16 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed handler method "OnGet", returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult". 
+ [ 08-10-2023 11:48:16 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed page "/Students/Index" in 866.9935ms 
+ [ 08-10-2023 11:48:16 Microsoft.AspNetCore.Routing.EndpointMiddleware Information] Executed endpoint '"/Students/Index"' 
+ [ 08-10-2023 11:48:16 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/Students/getall - - - 200 - text/html;+charset=utf-8 903.1820ms 
+ [ 08-10-2023 11:48:16 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/_framework/aspnetcore-browser-refresh.js - - 
+ [ 08-10-2023 11:48:16 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/_vs/browserLink - - 
+ [ 08-10-2023 11:48:16 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/_framework/aspnetcore-browser-refresh.js - - - 200 11996 application/javascript;+charset=utf-8 4.4692ms 
+ [ 08-10-2023 11:48:16 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 22.9019ms 
+ [ 08-10-2023 11:48:17 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/Students/2/Update - - 
+ [ 08-10-2023 11:48:17 Microsoft.AspNetCore.Routing.EndpointMiddleware Information] Executing endpoint '"/Students/Update"' 
+ [ 08-10-2023 11:48:17 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Route matched with "{page = \"/Students/Update\"}". Executing page "/Students/Update" 
+ [ 08-10-2023 11:48:17 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executing handler method "StudentsDbApp.Pages.Students.UpdateModel.OnGet" - ModelState is Valid 
+ [ 08-10-2023 11:48:17 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed handler method "OnGet", returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult". 
+ [ 08-10-2023 11:48:17 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed page "/Students/Update" in 180.7628ms 
+ [ 08-10-2023 11:48:17 Microsoft.AspNetCore.Routing.EndpointMiddleware Information] Executed endpoint '"/Students/Update"' 
+ [ 08-10-2023 11:48:17 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/Students/2/Update - - - 200 - text/html;+charset=utf-8 234.7851ms 
+ [ 08-10-2023 11:48:17 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/_framework/aspnetcore-browser-refresh.js - - 
+ [ 08-10-2023 11:48:17 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/_vs/browserLink - - 
+ [ 08-10-2023 11:48:17 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/_framework/aspnetcore-browser-refresh.js - - - 200 11996 application/javascript;+charset=utf-8 2.6097ms 
+ [ 08-10-2023 11:48:17 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 40.1145ms 
+ [ 08-10-2023 11:48:20 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/_framework/aspnetcore-browser-refresh.js - - 
+ [ 08-10-2023 11:48:20 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/_framework/aspnetcore-browser-refresh.js - - - 200 11996 application/javascript;+charset=utf-8 3.7919ms 
+ [ 08-10-2023 11:58:18 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager Information] User profile is available. Using '"C:\Users\Kats\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest. 
+ [ 08-10-2023 11:58:18 Microsoft.Hosting.Lifetime Information] Now listening on: "https://localhost:7014" 
+ [ 08-10-2023 11:58:18 Microsoft.Hosting.Lifetime Information] Now listening on: "http://localhost:5170" 
+ [ 08-10-2023 11:58:18 Microsoft.Hosting.Lifetime Information] Application started. Press Ctrl+C to shut down. 
+ [ 08-10-2023 11:58:18 Microsoft.Hosting.Lifetime Information] Hosting environment: "Development" 
+ [ 08-10-2023 11:58:18 Microsoft.Hosting.Lifetime Information] Content root path: "C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\" 
+ [ 08-10-2023 11:58:19 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/ - - 
+ [ 08-10-2023 11:58:19 Microsoft.AspNetCore.Routing.EndpointMiddleware Information] Executing endpoint '"/Index"' 
+ [ 08-10-2023 11:58:19 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Route matched with "{page = \"/Index\"}". Executing page "/Index" 
+ [ 08-10-2023 11:58:19 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executing handler method "StudentsDbApp.Pages.IndexModel.OnGet" - ModelState is Valid 
+ [ 08-10-2023 11:58:19 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed handler method "OnGet", returned result "". 
+ [ 08-10-2023 11:58:19 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executing an implicit handler method - ModelState is Valid 
+ [ 08-10-2023 11:58:19 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed an implicit handler method, returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult". 
+ [ 08-10-2023 11:58:20 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed page "/Index" in 349.1456ms 
+ [ 08-10-2023 11:58:20 Microsoft.AspNetCore.Routing.EndpointMiddleware Information] Executed endpoint '"/Index"' 
+ [ 08-10-2023 11:58:20 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/_framework/aspnetcore-browser-refresh.js - - 
+ [ 08-10-2023 11:58:20 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/_vs/browserLink - - 
+ [ 08-10-2023 11:58:20 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/ - - - 200 - text/html;+charset=utf-8 639.6355ms 
+ [ 08-10-2023 11:58:20 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/_framework/aspnetcore-browser-refresh.js - - - 200 11996 application/javascript;+charset=utf-8 32.5494ms 
+ [ 08-10-2023 11:58:20 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 58.4939ms 
+ [ 08-10-2023 11:58:26 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/Students/getall - - 
+ [ 08-10-2023 11:58:26 Microsoft.AspNetCore.Routing.EndpointMiddleware Information] Executing endpoint '"/Students/Index"' 
+ [ 08-10-2023 11:58:26 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Route matched with "{page = \"/Students/Index\"}". Executing page "/Students/Index" 
+ [ 08-10-2023 11:58:26 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executing handler method "StudentsDbApp.Pages.Students.IndexModel.OnGet" - ModelState is Valid 
+ [ 08-10-2023 11:58:27 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed handler method "OnGet", returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult". 
+ [ 08-10-2023 11:58:27 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed page "/Students/Index" in 1397.0945ms 
+ [ 08-10-2023 11:58:27 Microsoft.AspNetCore.Routing.EndpointMiddleware Information] Executed endpoint '"/Students/Index"' 
+ [ 08-10-2023 11:58:27 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/Students/getall - - - 200 - text/html;+charset=utf-8 1418.5060ms 
+ [ 08-10-2023 11:58:27 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/_vs/browserLink - - 
+ [ 08-10-2023 11:58:27 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/_framework/aspnetcore-browser-refresh.js - - 
+ [ 08-10-2023 11:58:27 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/_framework/aspnetcore-browser-refresh.js - - - 200 11996 application/javascript;+charset=utf-8 7.4862ms 
+ [ 08-10-2023 11:58:27 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 17.1358ms 
+ [ 08-10-2023 11:58:28 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/Students/1/Update - - 
+ [ 08-10-2023 11:58:28 Microsoft.AspNetCore.Routing.EndpointMiddleware Information] Executing endpoint '"/Students/Update"' 
+ [ 08-10-2023 11:58:28 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Route matched with "{page = \"/Students/Update\"}". Executing page "/Students/Update" 
+ [ 08-10-2023 11:58:28 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executing handler method "StudentsDbApp.Pages.Students.UpdateModel.OnGet" - ModelState is Valid 
+ [ 08-10-2023 11:58:29 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed handler method "OnGet", returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult". 
+ [ 08-10-2023 11:58:29 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed page "/Students/Update" in 186.9234ms 
+ [ 08-10-2023 11:58:29 Microsoft.AspNetCore.Routing.EndpointMiddleware Information] Executed endpoint '"/Students/Update"' 
+ [ 08-10-2023 11:58:29 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/Students/1/Update - - - 200 - text/html;+charset=utf-8 238.0453ms 
+ [ 08-10-2023 11:58:29 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/_vs/browserLink - - 
+ [ 08-10-2023 11:58:29 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/_framework/aspnetcore-browser-refresh.js - - 
+ [ 08-10-2023 11:58:29 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/_framework/aspnetcore-browser-refresh.js - - - 200 11996 application/javascript;+charset=utf-8 2.0603ms 
+ [ 08-10-2023 11:58:29 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 7.7155ms 
+ [ 08-10-2023 11:58:37 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 POST https://localhost:7014/Students/1/Update application/x-www-form-urlencoded 263 
+ [ 08-10-2023 11:58:37 Microsoft.AspNetCore.Routing.EndpointMiddleware Information] Executing endpoint '"/Students/Update"' 
+ [ 08-10-2023 11:58:37 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Route matched with "{page = \"/Students/Update\"}". Executing page "/Students/Update" 
+ [ 08-10-2023 11:58:37 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executing handler method "StudentsDbApp.Pages.Students.UpdateModel.OnPost" - ModelState is Valid 
+ [ 08-10-2023 11:58:37 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed handler method "OnPost", returned result "". 
+ [ 08-10-2023 11:58:37 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executing an implicit handler method - ModelState is Valid 
+ [ 08-10-2023 11:58:37 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed an implicit handler method, returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult". 
+ [ 08-10-2023 11:58:37 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed page "/Students/Update" in 121.5746ms 
+ [ 08-10-2023 11:58:37 Microsoft.AspNetCore.Routing.EndpointMiddleware Information] Executed endpoint '"/Students/Update"' 
+ [ 08-10-2023 11:58:37 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 POST https://localhost:7014/Students/1/Update application/x-www-form-urlencoded 263 - 200 - text/html;+charset=utf-8 143.9478ms 
+ [ 08-10-2023 11:58:37 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/_vs/browserLink - - 
+ [ 08-10-2023 11:58:37 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/_framework/aspnetcore-browser-refresh.js - - 
+ [ 08-10-2023 11:58:37 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/_framework/aspnetcore-browser-refresh.js - - - 200 11996 application/javascript;+charset=utf-8 4.7476ms 
+ [ 08-10-2023 11:58:37 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 33.9102ms 
+ [ 08-10-2023 11:58:40 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 POST https://localhost:7014/Students/1/Update application/x-www-form-urlencoded 264 
+ [ 08-10-2023 11:58:40 Microsoft.AspNetCore.Routing.EndpointMiddleware Information] Executing endpoint '"/Students/Update"' 
+ [ 08-10-2023 11:58:40 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Route matched with "{page = \"/Students/Update\"}". Executing page "/Students/Update" 
+ [ 08-10-2023 11:58:40 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executing handler method "StudentsDbApp.Pages.Students.UpdateModel.OnPost" - ModelState is Valid 
+ [ 08-10-2023 11:58:40 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed handler method "OnPost", returned result "". 
+ [ 08-10-2023 11:58:40 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executing an implicit handler method - ModelState is Valid 
+ [ 08-10-2023 11:58:40 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed an implicit handler method, returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult". 
+ [ 08-10-2023 11:58:40 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed page "/Students/Update" in 18.6008ms 
+ [ 08-10-2023 11:58:40 Microsoft.AspNetCore.Routing.EndpointMiddleware Information] Executed endpoint '"/Students/Update"' 
+ [ 08-10-2023 11:58:40 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 POST https://localhost:7014/Students/1/Update application/x-www-form-urlencoded 264 - 200 - text/html;+charset=utf-8 33.8676ms 
+ [ 08-10-2023 11:58:40 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/_vs/browserLink - - 
+ [ 08-10-2023 11:58:40 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/_framework/aspnetcore-browser-refresh.js - - 
+ [ 08-10-2023 11:58:40 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/_framework/aspnetcore-browser-refresh.js - - - 200 11996 application/javascript;+charset=utf-8 4.7054ms 
+ [ 08-10-2023 11:58:40 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 8.3443ms 
+ [ 08-10-2023 11:58:48 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 POST https://localhost:7014/Students/1/Update application/x-www-form-urlencoded 217 
+ [ 08-10-2023 11:58:48 Microsoft.AspNetCore.Routing.EndpointMiddleware Information] Executing endpoint '"/Students/Update"' 
+ [ 08-10-2023 11:58:48 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Route matched with "{page = \"/Students/Update\"}". Executing page "/Students/Update" 
+ [ 08-10-2023 11:58:48 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executing handler method "StudentsDbApp.Pages.Students.UpdateModel.OnPost" - ModelState is Valid 
+ [ 08-10-2023 11:58:48 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed handler method "OnPost", returned result "". 
+ [ 08-10-2023 11:58:48 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executing an implicit handler method - ModelState is Valid 
+ [ 08-10-2023 11:58:48 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed an implicit handler method, returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult". 
+ [ 08-10-2023 11:58:48 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed page "/Students/Update" in 14.3449ms 
+ [ 08-10-2023 11:58:48 Microsoft.AspNetCore.Routing.EndpointMiddleware Information] Executed endpoint '"/Students/Update"' 
+ [ 08-10-2023 11:58:48 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 POST https://localhost:7014/Students/1/Update application/x-www-form-urlencoded 217 - 200 - text/html;+charset=utf-8 28.3251ms 
+ [ 08-10-2023 11:58:48 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/_vs/browserLink - - 
+ [ 08-10-2023 11:58:48 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/_framework/aspnetcore-browser-refresh.js - - 
+ [ 08-10-2023 11:58:48 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/_framework/aspnetcore-browser-refresh.js - - - 200 11996 application/javascript;+charset=utf-8 13.6530ms 
+ [ 08-10-2023 11:58:48 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 48.7014ms 
+ [ 08-10-2023 11:58:52 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 POST https://localhost:7014/Students/1/Update application/x-www-form-urlencoded 217 
+ [ 08-10-2023 11:58:52 Microsoft.AspNetCore.Routing.EndpointMiddleware Information] Executing endpoint '"/Students/Update"' 
+ [ 08-10-2023 11:58:52 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Route matched with "{page = \"/Students/Update\"}". Executing page "/Students/Update" 
+ [ 08-10-2023 11:58:52 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executing handler method "StudentsDbApp.Pages.Students.UpdateModel.OnPost" - ModelState is Valid 
+ [ 08-10-2023 11:58:52 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed handler method "OnPost", returned result "". 
+ [ 08-10-2023 11:58:52 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executing an implicit handler method - ModelState is Valid 
+ [ 08-10-2023 11:58:52 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed an implicit handler method, returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult". 
+ [ 08-10-2023 11:58:52 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed page "/Students/Update" in 13.5827ms 
+ [ 08-10-2023 11:58:52 Microsoft.AspNetCore.Routing.EndpointMiddleware Information] Executed endpoint '"/Students/Update"' 
+ [ 08-10-2023 11:58:52 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 POST https://localhost:7014/Students/1/Update application/x-www-form-urlencoded 217 - 200 - text/html;+charset=utf-8 26.6257ms 
+ [ 08-10-2023 11:58:52 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/_vs/browserLink - - 
+ [ 08-10-2023 11:58:52 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/_framework/aspnetcore-browser-refresh.js - - 
+ [ 08-10-2023 11:58:52 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/_framework/aspnetcore-browser-refresh.js - - - 200 11996 application/javascript;+charset=utf-8 3.8760ms 
+ [ 08-10-2023 11:58:52 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 8.2879ms 
+ [ 08-10-2023 11:58:55 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 POST https://localhost:7014/Students/1/Update application/x-www-form-urlencoded 211 
+ [ 08-10-2023 11:58:55 Microsoft.AspNetCore.Routing.EndpointMiddleware Information] Executing endpoint '"/Students/Update"' 
+ [ 08-10-2023 11:58:55 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Route matched with "{page = \"/Students/Update\"}". Executing page "/Students/Update" 
+ [ 08-10-2023 11:58:55 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executing handler method "StudentsDbApp.Pages.Students.UpdateModel.OnPost" - ModelState is Valid 
+ [ 08-10-2023 11:58:55 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed handler method "OnPost", returned result "". 
+ [ 08-10-2023 11:58:55 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executing an implicit handler method - ModelState is Valid 
+ [ 08-10-2023 11:58:55 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed an implicit handler method, returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult". 
+ [ 08-10-2023 11:58:55 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed page "/Students/Update" in 13.0847ms 
+ [ 08-10-2023 11:58:55 Microsoft.AspNetCore.Routing.EndpointMiddleware Information] Executed endpoint '"/Students/Update"' 
+ [ 08-10-2023 11:58:55 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 POST https://localhost:7014/Students/1/Update application/x-www-form-urlencoded 211 - 200 - text/html;+charset=utf-8 29.8116ms 
+ [ 08-10-2023 11:58:55 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/_vs/browserLink - - 
+ [ 08-10-2023 11:58:55 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/_framework/aspnetcore-browser-refresh.js - - 
+ [ 08-10-2023 11:58:55 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/_framework/aspnetcore-browser-refresh.js - - - 200 11996 application/javascript;+charset=utf-8 5.2255ms 
+ [ 08-10-2023 11:58:55 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 28.4640ms 
+ [ 08-10-2023 11:59:15 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 POST https://localhost:7014/Students/1/Update application/x-www-form-urlencoded 312 
+ [ 08-10-2023 11:59:15 Microsoft.AspNetCore.Routing.EndpointMiddleware Information] Executing endpoint '"/Students/Update"' 
+ [ 08-10-2023 11:59:15 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Route matched with "{page = \"/Students/Update\"}". Executing page "/Students/Update" 
+ [ 08-10-2023 11:59:15 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executing handler method "StudentsDbApp.Pages.Students.UpdateModel.OnPost" - ModelState is Valid 
+ [ 08-10-2023 11:59:15 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed handler method "OnPost", returned result "". 
+ [ 08-10-2023 11:59:15 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executing an implicit handler method - ModelState is Valid 
+ [ 08-10-2023 11:59:15 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed an implicit handler method, returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult". 
+ [ 08-10-2023 11:59:15 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed page "/Students/Update" in 92.625ms 
+ [ 08-10-2023 11:59:15 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/Students/getall - - 
+ [ 08-10-2023 11:59:15 Microsoft.AspNetCore.Routing.EndpointMiddleware Information] Executed endpoint '"/Students/Update"' 
+ [ 08-10-2023 11:59:15 Microsoft.AspNetCore.Routing.EndpointMiddleware Information] Executing endpoint '"/Students/Index"' 
+ [ 08-10-2023 11:59:15 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 POST https://localhost:7014/Students/1/Update application/x-www-form-urlencoded 312 - 302 - text/html;+charset=utf-8 113.2428ms 
+ [ 08-10-2023 11:59:15 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Route matched with "{page = \"/Students/Index\"}". Executing page "/Students/Index" 
+ [ 08-10-2023 11:59:15 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executing handler method "StudentsDbApp.Pages.Students.IndexModel.OnGet" - ModelState is Valid 
+ [ 08-10-2023 11:59:15 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed handler method "OnGet", returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult". 
+ [ 08-10-2023 11:59:15 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed page "/Students/Index" in 12.3117ms 
+ [ 08-10-2023 11:59:15 Microsoft.AspNetCore.Routing.EndpointMiddleware Information] Executed endpoint '"/Students/Index"' 
+ [ 08-10-2023 11:59:15 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/Students/getall - - - 200 - text/html;+charset=utf-8 27.1566ms 
+ [ 08-10-2023 11:59:15 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/_vs/browserLink - - 
+ [ 08-10-2023 11:59:15 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/_framework/aspnetcore-browser-refresh.js - - 
+ [ 08-10-2023 11:59:15 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/_framework/aspnetcore-browser-refresh.js - - - 200 11996 application/javascript;+charset=utf-8 1.8280ms 
+ [ 08-10-2023 11:59:15 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 23.4840ms 
+ [ 08-10-2023 12:29:33 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager Information] User profile is available. Using '"C:\Users\Kats\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest. 
+ [ 08-10-2023 12:29:34 Microsoft.Hosting.Lifetime Information] Now listening on: "https://localhost:7014" 
+ [ 08-10-2023 12:29:34 Microsoft.Hosting.Lifetime Information] Now listening on: "http://localhost:5170" 
+ [ 08-10-2023 12:29:34 Microsoft.Hosting.Lifetime Information] Application started. Press Ctrl+C to shut down. 
+ [ 08-10-2023 12:29:34 Microsoft.Hosting.Lifetime Information] Hosting environment: "Development" 
+ [ 08-10-2023 12:29:34 Microsoft.Hosting.Lifetime Information] Content root path: "C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\" 
+ [ 08-10-2023 12:29:34 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/ - - 
+ [ 08-10-2023 12:29:34 Microsoft.AspNetCore.Routing.EndpointMiddleware Information] Executing endpoint '"/Index"' 
+ [ 08-10-2023 12:29:35 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Route matched with "{page = \"/Index\"}". Executing page "/Index" 
+ [ 08-10-2023 12:29:35 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executing handler method "StudentsDbApp.Pages.IndexModel.OnGet" - ModelState is Valid 
+ [ 08-10-2023 12:29:35 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed handler method "OnGet", returned result "". 
+ [ 08-10-2023 12:29:35 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executing an implicit handler method - ModelState is Valid 
+ [ 08-10-2023 12:29:35 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed an implicit handler method, returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult". 
+ [ 08-10-2023 12:29:35 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed page "/Index" in 345.7647ms 
+ [ 08-10-2023 12:29:35 Microsoft.AspNetCore.Routing.EndpointMiddleware Information] Executed endpoint '"/Index"' 
+ [ 08-10-2023 12:29:35 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/ - - - 200 - text/html;+charset=utf-8 612.9175ms 
+ [ 08-10-2023 12:29:35 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/_vs/browserLink - - 
+ [ 08-10-2023 12:29:35 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/_framework/aspnetcore-browser-refresh.js - - 
+ [ 08-10-2023 12:29:35 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/_framework/aspnetcore-browser-refresh.js - - - 200 11996 application/javascript;+charset=utf-8 23.5768ms 
+ [ 08-10-2023 12:29:35 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 76.6677ms 
+ [ 08-10-2023 12:29:38 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/Students/getall - - 
+ [ 08-10-2023 12:29:38 Microsoft.AspNetCore.Routing.EndpointMiddleware Information] Executing endpoint '"/Students/Index"' 
+ [ 08-10-2023 12:29:38 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Route matched with "{page = \"/Students/Index\"}". Executing page "/Students/Index" 
+ [ 08-10-2023 12:29:38 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executing handler method "StudentsDbApp.Pages.Students.IndexModel.OnGet" - ModelState is Valid 
+ [ 08-10-2023 12:29:38 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed handler method "OnGet", returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult". 
+ [ 08-10-2023 12:29:38 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed page "/Students/Index" in 502.0361ms 
+ [ 08-10-2023 12:29:38 Microsoft.AspNetCore.Routing.EndpointMiddleware Information] Executed endpoint '"/Students/Index"' 
+ [ 08-10-2023 12:29:38 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/Students/getall - - - 200 - text/html;+charset=utf-8 520.1413ms 
+ [ 08-10-2023 12:29:38 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/_vs/browserLink - - 
+ [ 08-10-2023 12:29:38 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/_framework/aspnetcore-browser-refresh.js - - 
+ [ 08-10-2023 12:29:38 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/js/Student.js - - 
+ [ 08-10-2023 12:29:38 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/_framework/aspnetcore-browser-refresh.js - - - 200 11996 application/javascript;+charset=utf-8 7.2317ms 
+ [ 08-10-2023 12:29:38 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 31.2221ms 
+ [ 08-10-2023 12:29:38 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware Information] Sending file. Request path: '"/js/Student.js"'. Physical path: '"C:\Users\Kats\Documents\CODING FACTORY\C#\Projects\CodingFactory4\StudentsDbApp\wwwroot\js\Student.js"' 
+ [ 08-10-2023 12:29:38 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/js/Student.js - - - 200 185 application/javascript 119.1230ms 
+ [ 08-10-2023 12:29:51 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/Students/4/Delete - - 
+ [ 08-10-2023 12:29:51 Microsoft.AspNetCore.Routing.EndpointMiddleware Information] Executing endpoint '"/Students/Delete"' 
+ [ 08-10-2023 12:29:51 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Route matched with "{page = \"/Students/Delete\"}". Executing page "/Students/Delete" 
+ [ 08-10-2023 12:29:51 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executing handler method "StudentsDbApp.Pages.Students.DeleteModel.OnGet" - ModelState is Valid 
+ [ 08-10-2023 12:29:51 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed handler method "OnGet", returned result "". 
+ [ 08-10-2023 12:29:51 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executing an implicit handler method - ModelState is Valid 
+ [ 08-10-2023 12:29:51 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed an implicit handler method, returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult". 
+ [ 08-10-2023 12:29:51 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/Students/getall - - 
+ [ 08-10-2023 12:29:51 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed page "/Students/Delete" in 170.4824ms 
+ [ 08-10-2023 12:29:51 Microsoft.AspNetCore.Routing.EndpointMiddleware Information] Executing endpoint '"/Students/Index"' 
+ [ 08-10-2023 12:29:51 Microsoft.AspNetCore.Routing.EndpointMiddleware Information] Executed endpoint '"/Students/Delete"' 
+ [ 08-10-2023 12:29:51 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Route matched with "{page = \"/Students/Index\"}". Executing page "/Students/Index" 
+ [ 08-10-2023 12:29:51 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/Students/4/Delete - - - 302 - text/html;+charset=utf-8 216.2813ms 
+ [ 08-10-2023 12:29:51 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executing handler method "StudentsDbApp.Pages.Students.IndexModel.OnGet" - ModelState is Valid 
+ [ 08-10-2023 12:29:51 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed handler method "OnGet", returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult". 
+ [ 08-10-2023 12:29:51 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker Information] Executed page "/Students/Index" in 15.8287ms 
+ [ 08-10-2023 12:29:51 Microsoft.AspNetCore.Routing.EndpointMiddleware Information] Executed endpoint '"/Students/Index"' 
+ [ 08-10-2023 12:29:51 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/Students/getall - - - 200 - text/html;+charset=utf-8 28.3729ms 
+ [ 08-10-2023 12:29:51 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/js/Student.js - - 
+ [ 08-10-2023 12:29:51 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/_framework/aspnetcore-browser-refresh.js - - 
+ [ 08-10-2023 12:29:51 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request starting HTTP/2 GET https://localhost:7014/_vs/browserLink - - 
+ [ 08-10-2023 12:29:51 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/_framework/aspnetcore-browser-refresh.js - - - 200 11996 application/javascript;+charset=utf-8 1.9759ms 
+ [ 08-10-2023 12:29:51 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware Information] The file "/js/Student.js" was not modified 
+ [ 08-10-2023 12:29:51 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/js/Student.js - - - 304 - application/javascript 10.7393ms 
+ [ 08-10-2023 12:29:51 Microsoft.AspNetCore.Hosting.Diagnostics Information] Request finished HTTP/2 GET https://localhost:7014/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 14.3824ms 
+ 
